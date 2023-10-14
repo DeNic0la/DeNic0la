@@ -3,7 +3,7 @@
 
 
 Hello there 
-I am Nicola Fioretti, an 19-year-old Software Developer from Switzerland. I started my journey as a Software developer in 2019.
+I am Nicola Fioretti, a 20-year-old Software Developer from Switzerland. I started my journey as a Software developer in 2019.
 
 
 ## :fire: My Stats:
