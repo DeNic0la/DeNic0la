@@ -7,7 +7,7 @@ I am Nicola Fioretti, a 22-year-old Software Developer from Switzerland. I start
 
 
 ## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeNic0la&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DeNic0la&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## :fire: Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeNic0la&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## :fire: My Grade
