@@ -4,6 +4,7 @@
 
 Hello there 
 I am Nicola Fioretti, a 22-year-old Software Developer from Switzerland. I started my journey as a Software developer in 2019.
+Currently working on [Konfi](https://konfi.denic0la.ch/)
 
 
 ## :fire: My Stats:
